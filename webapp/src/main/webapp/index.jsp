@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning at Virtual TechBox Youtube Channel</h1>
     <p>Please fill in this form to create an account.</p>
+   
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -33,5 +34,7 @@
 
    <h1> Thank You, Happy Learning </h1>
    <h1> See You Again </h1>
+
+   <h1> You are successfully completed Devops Simple Project <h1>
   
 </form>
