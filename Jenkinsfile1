@@ -1,0 +1,13 @@
+pipeline {
+    agent any
+    triggers {
+        pollSCM('* * * * *') // Optional fallback polling
+    }
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building after GitHub push...'
+            }
+        }
+    }
+}
